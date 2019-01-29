@@ -1,1 +1,1 @@
-echo "This is allPyMax"
+print "This is allPyMax"
